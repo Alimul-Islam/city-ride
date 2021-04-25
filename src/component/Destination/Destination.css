@@ -1,0 +1,25 @@
+.left-section{
+width: 35%;
+float: left;
+border: 1px solid #555;
+margin-right: 5px;
+margin: 3px;
+padding: 5px;
+border-radius: 20px;
+}
+input{
+    padding: 2px;
+    width:100%
+
+}
+.right-section{
+width: 55%;
+height: 40px;
+float: right;
+margin: 3px;
+}
+.map-img{
+    height: 350px;
+    width: 100%;
+}
+

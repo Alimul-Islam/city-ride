@@ -1,0 +1,17 @@
+.left-details h1{
+    float: left;
+    width: 40%;
+}
+.map-details h1{
+    float: right;
+    width: 60%;
+}
+.map-img{
+    width: 55%;
+    height: 400px;
+    float: right;
+    margin: 3px;
+}
+h3,h4{
+    margin: 10px; 
+}

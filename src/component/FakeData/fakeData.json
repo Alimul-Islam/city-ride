@@ -1,0 +1,26 @@
+[
+    {   
+        "id" : 1,
+        "name": "Bike",
+        "image":"https://i.ibb.co/GT1SC1N/Frame.png"
+    
+    },
+    {
+        "id" : 2,
+        "name": "Car",
+        "image":"https://i.ibb.co/BBX2c3v/Frame-2.png"
+    
+    },
+    {   
+        "id" : 3,
+        "name":"Bus",
+        "image":"https://i.ibb.co/QNTsGsG/Frame-1.png"
+    
+    },
+    {   
+        "id" : 4,
+        "name": "Train",
+        "image":"https://i.ibb.co/JcnW2PX/Group.png"
+    
+    }
+]

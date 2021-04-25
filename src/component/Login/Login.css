@@ -1,0 +1,150 @@
+.form-section{
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+    background:white;
+    border:1px solid black;
+}
+.title{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.Form_control input{
+    border:none;
+}
+.Form_control{
+    width: 80%;
+    border-bottom: 1px solid gray;
+    margin: 0 auto;
+}
+.Swich_form{
+    border:none;
+    width: 80%;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid gray;
+}
+
+.Submit_controll{
+    background-color: #F9A51A;
+    width: 80%;
+    margin-left: 50px;
+    padding: 5px 25px;
+    outline: none;
+    border: none;
+}
+.Text_Conrol{
+    margin-left: 80px;
+    padding-top: 10px;
+}
+.Text_Conrol .h5{
+    font-weight: bold;
+    font-size:15px;
+}
+.ChekBox_text{
+    border-bottom: 1px solid black;
+    color: red;
+    margin-left: 10px;
+}
+input[type=checkbox], input[type=radio] {
+    position: relative;
+    box-sizing: border-box;
+    padding: 0;
+    height: 22px;
+    width: 21px;
+    top: 5px;
+    left: 10px;
+    cursor: pointer;
+}
+
+
+form input:focus{
+    border: none;
+    outline: none;
+}
+
+/* or section */
+
+.Or_arrow{
+    width: 421px;
+    height: 10px;
+    margin: 0 auto;
+    position: relative;
+    top: 25px;
+    display: flex;
+    justify-content: space-between 15px;
+}
+.left_arrow{
+    border-bottom: 1px solid black;
+    width: 200px;
+    height: 1px;
+}
+
+.right_arrow{
+    border-bottom: 1px solid black;
+    width: 200px;
+    height: 1px;
+}
+
+
+/* facebook & google login */
+.login_btn{
+  margin:284px; ;
+ 
+}
+
+.auto_login{
+    align-items: center;
+    width: 100%;
+    margin: 15px;
+    border-radius: 20px;
+    padding: 8px 0px;
+    background-color: white;
+    color: black;
+    outline: none;
+    border: none;
+    border: 1px solid blue;
+    cursor: pointer;
+    
+}
+.auto_login img{
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 10px;
+}
+/* Smartphones (portrait and landscape) ---------- */
+@media screen and (min-width: 320px) and (max-width: 480px){
+    /* styles */
+}
+/* Smartphones (portrait) ---------- */
+@media screen and (max-width: 320px){
+    /* styles */
+}
+/* Smartphones (landscape) ---------- */
+@media screen and (min-width: 321px){
+    /* styles */
+}
+/* Tablets, iPads (portrait and landscape) ---------- */
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    /* styles */
+}
+/* Tablets, iPads (portrait) ---------- */
+@media screen and (min-width: 768px){
+    /* styles */
+}
+/* Tablets, iPads (landscape) ---------- */
+@media screen and (min-width: 1024px){
+    /* styles */
+}
+/* Desktops and laptops ---------- */
+@media screen and (min-width: 1224px){
+    /* styles */
+}
+/* Large screens ---------- */
+@media screen and (min-width: 1824px){
+    /* styles */
+}
